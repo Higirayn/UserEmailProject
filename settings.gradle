@@ -1,0 +1,10 @@
+rootProject.name = 'UserEmailProject'
+include 'user-module'
+include 'notification-module'
+include 'utillities'
+include 'analitic-module'
+include 'api-gateway'
+include 'config-server'
+include 'eurika-server'
+include 'security-module'
+
